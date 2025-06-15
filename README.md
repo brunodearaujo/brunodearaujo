@@ -4,9 +4,7 @@
   <a href = "https://git.io/typing-svg"><img src = "https://readme-typing-svg.demolab.com/?font=Anek+Devanagari&weight=600&size=35&pause=1000&color=E5289E&background=6A5BFF00&center=true&vCenter=true&width=435&lines=Welcome+!;I'm+Bruno+!;Back-End+Developer;Hacker;System+Analyst" alt = "typing SVG" /></a>
 </div>
 
-# 👨‍💻 Bruno de Araujo
-
-**`Aspiring Back-End Developer | Cybersecurity Enthusiast`**
+## 🧠 ABOUT ME
 
 Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m interested in back-end development and cybersecurity, fields in which I aim to specialize. Currently, I’m studying Systems Analysis and Development at FAETERJ-RIO, and I’m looking for an opportunity to apply and enhance my knowledge in practice.
 
@@ -14,7 +12,6 @@ Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m 
 
 ## 🚀 TECH STACK
 
-&weight=600&size=35
 <div align = "center">
   <img src = "https://skillicons.dev/icons?i=python" height = "40" alt = "python logo" />
   <img width = "12" />

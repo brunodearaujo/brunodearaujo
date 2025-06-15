@@ -8,8 +8,6 @@
 
 Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m interested in back-end development and cybersecurity, fields in which I aim to specialize. Currently, I’m studying Systems Analysis and Development at FAETERJ-RIO, and I’m looking for an opportunity to apply and enhance my knowledge in practice.
 
----
-
 ## 🚀 TECH STACK
 
 <div align = "center">
@@ -32,8 +30,6 @@ Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m 
   <img src = "https://skillicons.dev/icons?i=js" height = "40" alt = "javascript logo" />
 </div>
 
----
-
 ## 🌐 Connect with Me
 
 <div>
@@ -44,8 +40,6 @@ Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
----
 
 ## 📊 GitHub Stats
 

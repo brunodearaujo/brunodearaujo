@@ -30,7 +30,7 @@ Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m 
   <img src = "https://skillicons.dev/icons?i=js" height = "40" alt = "javascript logo" />
 </div>
 
-## 🌐 Connect with Me
+## 🌐 SOCIALS
 
 <div>
   <a href="mailto:brunodearaujoj@gmail.com">
@@ -41,9 +41,9 @@ Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m 
   </a>
 </div>
 
-## 📊 GitHub Stats
+## 📊 STATS
 
-<div>
+<div align = "center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=brunodearaujo&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats" 

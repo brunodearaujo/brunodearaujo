@@ -30,30 +30,31 @@ Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m 
   <img src = "https://skillicons.dev/icons?i=js" height = "40" alt = "javascript logo" />
 </div>
 
-## 🌐 SOCIALS
-
-<div>
-  <a href="mailto:brunodearaujoj@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/brunodearaujoj" target="_blank" rel="external">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
 ## 📊 STATS
 
 <div align = "center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=brunodearaujo&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
-    alt="GitHub Stats" 
+   src="https://github-readme-stats.vercel.app/api/?username=brunodearaujo&show_icons=true&count_private=true&rank_icon=github&theme=synthwave&font=Iosevka"
+    alt="Github Stats" 
     height="180px" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodearaujo&theme=holi&layout=compact&custom_title=Top%20Languages&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodearaujo&layout=compact&font=Iosevka&langs_count=16&theme=synthwave"
     alt="Top Languages" 
     height="180px" 
   />
 </div>
+
+## 🌐 SOCIALS
+
+<div align = "center">
+    <a href = "https://www.instagram.com/iambruno17" target = "_blank">
+    <img src = "https://skillicons.dev/icons?i=instagram" width = "52" height = "40" alt = "instagram logo" />
+  </a>
+  <a href = "https://www.linkedin.com/in/brunodearaujoj" target = "_blank">
+    <img src = "https://skillicons.dev/icons?i=linkedin" width = "52" height = "40" alt = "linkedin logo" />
+  </a>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f05138,100:e5289e&section=footer"/>

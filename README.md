@@ -12,21 +12,27 @@ Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m 
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 TECH STACK
 
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="UML" title="UML" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" title="Windows" width="40px"/>
+&weight=600&size=35
+<div align = "center">
+  <img src = "https://skillicons.dev/icons?i=python" height = "40" alt = "python logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=c" height = "40" alt = "c logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=aws" height = "40" alt = "aws logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=java" height = "40" alt = "java logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=spring" height = "40" alt = "spring logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=php" height = "40" alt = "php logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=html" height = "40" alt = "html5 logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=css" height = "40" alt = "css3 logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=js" height = "40" alt = "javascript logo" />
 </div>
 
 ---

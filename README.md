@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e5289e,100:f05138"/>
+
 # 👨‍💻 Bruno de Araujo
 
 **`Aspiring Back-End Developer | Cybersecurity Enthusiast`**
@@ -52,3 +54,5 @@ Hello! My name is Bruno, and I’m starting my journey in the tech world. I’m 
     height="180px" 
   />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f05138,100:e5289e&section=footer"/>
